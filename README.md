@@ -2,6 +2,9 @@
 
 Street Fuel is a customer review and feedback management platform designed for food businesses. It allows customers to share their experiences, rate products, and submit feedback while providing administrators with a secure dashboard to manage customer interactions.
 
+## Live Demo
+
+🌐 https://client2-gules.vercel.app/
 ---
 
 ## 📌 Overview
